@@ -1,0 +1,76 @@
+item.dgr2:dark_gem.name=Dark Gem
+item.dgr2:infused_gem.name=Infused Gem
+item.dgr2:blue_gem.name=Blue Gem
+item.dgr2:magical_gem.name=Magical Gem
+item.dgr2:green_gem.name=Green Gem
+
+item.dgr2:green_shards.name=Green Shards
+item.dgr2:blue_shards.name=Blue Shards
+item.dgr2:infused_shards.name=Infused Shards
+item.dgr2:magical_shards.name=Magical Shards
+
+itemGroup.tabdarkItems=Dark Items
+itemGroup.tabdarkBlocks=Dark Blocks
+itemGroup.tabdarkOres=Dark Ores
+itemGroup.tabdarkTools=Dark Tools
+itemGroup.tabdarkArmor=Dark Armor
+
+tile.dgr2:infused_ore.name=Infused Ore
+tile.dgr2:green_ore.name=Green Ore
+tile.dgr2:blue_ore.name=Blue Ore
+tile.dgr2:magical_ore.name=Magical Ore
+tile.dgr2:dark_ore.name=Dark Ore
+
+tile.dgr2:dark_block.name=Dark Block
+tile.dgr2:infused_block.name=Infused Block
+tile.dgr2:green_block.name=Green Block
+tile.dgr2:blue_block.name=Blue Block
+tile.dgr2:magical_block.name=Magical Block
+
+item.dgr2:dark_hammer.name=Dark Hammer
+item.dgr2:dark_axe.name=Dark Axe
+item.dgr2:dark_pickaxe.name=Dark Pickaxe
+item.dgr2:dark_spade.name=Dark Shovel
+item.dgr2:dark_sword.name=Dark Sword
+item.dgr2:dark_hammer.name=Dark Hammer
+item.dgr2:infused_spade.name=Infused Shovel
+item.dgr2:infused_axe.name=Infused Axe
+item.dgr2:infused_pickaxe.name=Infused Pickaxe
+item.dgr2:infused_sword.name=Infused Sword
+item.dgr2:green_pickaxe.name=Green Pickaxe
+item.dgr2:green_axe.name=Green Axe
+item.dgr2:green_sword.name=Green Sword
+item.dgr2:green_spade.name=Green Shovel
+item.dgr2:blue_pickaxe.name=Blue Pickaxe
+item.dgr2:blue_axe.name=Blue Axe
+item.dgr2:blue_sword.name=Blue Sword
+item.dgr2:blue_spade.name=Blue Shovel
+item.dgr2:magical_pickaxe.name=Magical Pickaxe
+item.dgr2:magical_axe.name=Magical Axe
+item.dgr2:magical_sword.name=Magical Sword
+item.dgr2:magical_spade.name=Magical Shovel
+
+item.dark_helmet.name=Dark Helmet
+item.dark_chestplate.name=Dark Chestplate
+item.dark_leggings.name=Dark Leggings
+item.dark_boots.name=Dark Boots
+
+item.infused_helmet.name=Infused Helmet
+item.infused_chestplate.name=Infused Chestplate
+item.infused_leggings.name=Infused Leggings
+item.infused_boots.name=Infused Boots
+
+item.green_helmet.name=Green Helmet
+item.green_chestplate.name=Green Chestplate
+item.green_leggings.name=Green Leggings
+item.green_boots.name=Green Boots
+
+item.blue_helmet.name=Blue Helmet
+item.blue_chestplate.name=Blue Chestplate
+item.blue_leggings.name=Blue Leggings
+item.blue_boots.name=Blue Boots
+
+item.magical_helmet.name=Magical Helmet
+item.magical_chestplate.name=Magical Chestplate
+item.magical_leggings.name=Magical Leggings
+item.magical_boots.name=Magical Boots

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dgr2",
+  "name": "Dark Gems Reborn 2",
+  "description": "Dark Gems Reborn 2 adds new Gems that can be used for tools and armor.",
+  "version": "1.0B",
+  "mcversion": "1.10.",
+  "url": "http://hyperdefined.github.io/",
+  "updateUrl": "",
+  "authorList": ["hyperdefined"],
+  "credits": "Forge Team and Nexey for some textures.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
